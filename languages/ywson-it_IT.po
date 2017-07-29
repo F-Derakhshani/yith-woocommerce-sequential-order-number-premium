@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Sequential Order Number\n"
+"POT-Creation-Date: 2016-09-27 17:28+0200\n"
+"PO-Revision-Date: 2016-09-27 17:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;_ngettext_noop:1,2;"
+"_n_nooop:1,2;_c,_nc:4c,1,2;_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class.yith-woocommerce-sequential-order-number.php:499
+msgid "General"
+msgstr "Generale"
+
+#: ../includes/class.yith-woocommerce-sequential-order-number.php:505
+#: ../includes/class.yith-woocommerce-sequential-order-number.php:506
+msgid "Sequential Order Number"
+msgstr "Numeri d'ordine sequenziali"
+
+#: ../includes/class.yith-woocommerce-sequential-order-number.php:548
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../includes/class.yith-woocommerce-sequential-order-number.php:571
+msgid "Plugin Documentation"
+msgstr "Documentazione Plugin"
+
+#: ../includes/class.yith-woocommerce-sequential-order-number.php:790
+msgid "Sequential Quote Number"
+msgstr "Numero sequenziale preventivi"
+
+#: ../init.php:31
+msgid ""
+"YITH WooCommerce Sequential Order Numbers is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Sequential Order Numbers è attivo ma non in funzione. "
+"Richiede WooCommerce per funzionare."
+
+#: ../plugin-options/general-options.php:7
+msgid "You can use these placehoders"
+msgstr "Usa questi placeholder"
+
+#: ../plugin-options/general-options.php:8
+msgid "[D] Day without leading zeros"
+msgstr "[D] Giorno senza zero iniziale"
+
+#: ../plugin-options/general-options.php:9
+msgid "[DD] Day with leading zeros"
+msgstr "[DD] Giorno con zero iniziale"
+
+#: ../plugin-options/general-options.php:10
+msgid "[M] Month without leading zeros"
+msgstr "[M] Mese senza zero iniziale"
+
+#: ../plugin-options/general-options.php:11
+msgid "[MM] Month with leading zeros"
+msgstr "[MM] Mese con zero iniziale"
+
+#: ../plugin-options/general-options.php:12
+msgid "[YY] two-digit year"
+msgstr "[YY] Anno con due cifre"
+
+#: ../plugin-options/general-options.php:13
+msgid "[YYYY] Full year"
+msgstr "[YYYY] Anno completo"
+
+#: ../plugin-options/general-options.php:14
+msgid "[h] 24-hour format of an hour without leading zeros"
+msgstr "[h] Formato 24 ore senza zero iniziale"
+
+#: ../plugin-options/general-options.php:15
+msgid "[hh] 24-hour format of an hour with leading zeros"
+msgstr "[h] Formato 24 ore con zero iniziale"
+
+#: ../plugin-options/general-options.php:16
+msgid "[m] Minutes with leading zeros"
+msgstr "[m] Minuti senza zero iniziale"
+
+#: ../plugin-options/general-options.php:17
+msgid "[s] Seconds, with leading zeros"
+msgstr "[s] Secondi senza zero iniziale "
+
+#: ../plugin-options/general-options.php:26
+msgid ""
+"If you enable this option, you can use a different numeration for your "
+"quotes."
+msgstr ""
+"Se abiliti questa opzione, puoi utilizzare una numerazione diversa per i "
+"tuoi preventivi."
+
+#: ../plugin-options/general-options.php:27
+msgctxt ""
+"This option is available if YITH WooCommerce Request a Quote Premium version "
+"1.5.6 or later is activated"
+msgid "This option is available if"
+msgstr "Questa opzione è disponibile se"
+
+#: ../plugin-options/general-options.php:29
+msgid "YITH WooCommerce Request a Quote Premium"
+msgstr "YITH WooCommerce Request a Quote Premium"
+
+#: ../plugin-options/general-options.php:30
+msgid "(version 1.5.6 or later) is activated"
+msgstr "(versione 1.5.6 o successive) è attivato"
+
+#: ../plugin-options/general-options.php:35
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: ../plugin-options/general-options.php:40
+msgid "Numeration starting from"
+msgstr "Inizia numerazione da"
+
+#: ../plugin-options/general-options.php:42
+msgid "Set the starting number for order numeration"
+msgstr "Imposta il numero iniziale per la numerazione degli ordini"
+
+#: ../plugin-options/general-options.php:53
+msgid "Order prefix"
+msgstr "Prefisso ordini"
+
+#: ../plugin-options/general-options.php:55
+msgid "Set a text to be used as prefix for order numbers."
+msgstr "Inserisci il testo da usare come prefisso per gli ordini"
+
+#: ../plugin-options/general-options.php:64
+msgid "Order suffix"
+msgstr "Suffisso ordini"
+
+#: ../plugin-options/general-options.php:66
+msgid "Set a text to be used as suffix for order numbers."
+msgstr "Inserisci il testo da usare come suffisso per gli ordini"
+
+#: ../plugin-options/general-options.php:75
+msgid "Use different numeration for free orders"
+msgstr "Usa numerazione differente per gli ordini free"
+
+#: ../plugin-options/general-options.php:77
+msgid ""
+"If this option has been activated, you can use a different numeration for "
+"your free orders."
+msgstr ""
+"Abilita questa opzione per utilizzare una numerazione differente per gli "
+"ordini free"
+
+#: ../plugin-options/general-options.php:83
+#: ../plugin-options/general-options.php:146
+msgid "Numeration starting from:"
+msgstr "Inizia numerazione da:"
+
+#: ../plugin-options/general-options.php:85
+msgid "Set the starting number for free order numeration"
+msgstr "Imposta numero iniziale per la numerazione degli ordini free"
+
+#: ../plugin-options/general-options.php:96
+msgid "Free order prefix"
+msgstr "Prefisso ordini free"
+
+#: ../plugin-options/general-options.php:99
+msgid "Set a text to be used as prefix for free order numbers."
+msgstr "Inserisci il testo per il prefisso degli ordini free."
+
+#: ../plugin-options/general-options.php:108
+msgid "Free order suffix"
+msgstr "Suffisso ordini free"
+
+#: ../plugin-options/general-options.php:111
+msgid "Set a text to be used as suffix for free order numbers."
+msgstr "Inserisci il testo per il suffisso degli ordini free."
+
+#: ../plugin-options/general-options.php:120
+msgid "Set your free order type"
+msgstr "Tipo di ordine free"
+
+#: ../plugin-options/general-options.php:124
+msgid ""
+"With this option, you can choose in which way orders have to be recognized "
+"as free."
+msgstr "Decidi quando considerare un ordine free."
+
+#: ../plugin-options/general-options.php:125
+msgid ""
+"Order total: your order is free if the total is 0 (coupon and shipping "
+"included)."
+msgstr ""
+"Totale ordine: l'ordine è da considerarsi free quando il totale è pari a "
+"zero (inclusi coupon e spese di spedizione)."
+
+#: ../plugin-options/general-options.php:126
+msgid ""
+"Order products: your order is free only if all products it contains are free "
+"(coupon and shipping excluded)."
+msgstr ""
+"Prodotti: l'ordine è da considerarsi free quando contiene solamente prodotti "
+"free (inclusi coupon e spese di spedizione)."
+
+#: ../plugin-options/general-options.php:129
+msgid "Order Total"
+msgstr "Totale Ordini"
+
+#: ../plugin-options/general-options.php:130
+msgid "Products in Order"
+msgstr "Prodotti dell'ordine"
+
+#: ../plugin-options/general-options.php:137
+msgid "Use different numeration for quotes"
+msgstr "Utilizza una numerazione diversa per i preventivi"
+
+#: ../plugin-options/general-options.php:148
+msgid "Set the starting number for quote numeration"
+msgstr "Imposta il numero iniziale per la numerazione dei preventivi"
+
+#: ../plugin-options/general-options.php:160
+msgid "Quote prefix"
+msgstr "Prefisso preventivo"
+
+#: ../plugin-options/general-options.php:163
+msgid "Set a text to be used as prefix for quote numbers."
+msgstr ""
+"Imposta un testo da utilizzare come prefisso per i numeri dei preventivi."
+
+#: ../plugin-options/general-options.php:172
+msgid "Quote suffix"
+msgstr "Suffisso preventivo"
+
+#: ../plugin-options/general-options.php:175
+msgid "Set a text to be used as suffix for quote numbers."
+msgstr ""
+"Imposta un testo da utilizzare come suffisso per i numeri dei preventivi."
+
+#~ msgid "Sequential Order Numbers"
+#~ msgstr "Numeri ordine sequenziali"
